@@ -1,4 +1,4 @@
-local blacklistedAddons = {{
+local blacklistedAddons = {{  -- Я провожу тестирование этого говна :)
     ["AddonName1"] = {
         url = "http://example.com/addon1",
         reason = "Reason for blacklisting AddonName1"
